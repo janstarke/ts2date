@@ -1,5 +1,7 @@
 # ts2date
 
+This program replaces UNIX timestamps in a stream by a formatted date.
+
 ## Installation
 
 ```
